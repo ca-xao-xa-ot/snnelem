@@ -389,6 +389,7 @@ footer {
   -webkit-transition: background 1s linear;
   transition: background 1s linear;
 }
+
 .polaroid {
   width: 240x;
   height: 400px;
@@ -417,7 +418,7 @@ footer {
   backface-visibility: hidden;
   background-position: center;
   background-size: cover;
-  -webkit-animation: fade-in 20s ease-in;
+  -webkit-animation: fade-in 7s ease-in;
   animation: fade-in 20s ease-in;
   -webkit-animation-iteration-count: 1;
   animation-iteration-count: 1;
